@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ManyyZin/Henrique-Maniery/blob/main/data-science.gif" width="500px" alt="Data Science animation">
+  <img src="animacao-data-science.gif"
+       width="800"
+       alt="animacao-data-science">
 </p>
-
 
 ---
 
