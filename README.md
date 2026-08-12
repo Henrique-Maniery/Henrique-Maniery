@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="animacao-data-science.gif"
-       width="800"
+       width="480"
        alt="animacao-data-science">
 </p>
 
